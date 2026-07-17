@@ -22,7 +22,7 @@ My work sits at the intersection of data, place, and health justice.
 ## 📌 Featured Projects
 
 - 🦷 [Oral Health Vulnerability Index — St. Louis](https://stlouiscombinedindex.netlify.app)
-- 🗺️ [Full GIS Portfolio](https://mariampervaizporfolio.netlify.app)
+- 🗺️ [Full GIS Portfolio][(https://mariampervaizportfolio.netlify.app/)]
 
 ---
 
